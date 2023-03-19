@@ -309,3 +309,14 @@ label.modal__username {
     padding-bottom: 5px;
     color: #fff;
 }
+
+.ti-lock,
+.ti-user {
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 4px;
+}
+
+.group-field {
+    display: flex;
+}
